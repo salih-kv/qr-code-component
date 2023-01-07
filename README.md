@@ -37,7 +37,7 @@
 ## Author
 
 - Website - [MOHAMMED SALIH KV](https://github.com/salih-kv)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/salih-kv)
+- Frontend Mentor - [@salih-kv](https://www.frontendmentor.io/profile/salih-kv)
 
 ## Acknowledgments
 
